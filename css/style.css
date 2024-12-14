@@ -1,0 +1,28 @@
+body {
+  background-color: antiquewhite;
+  text-align: center;
+}
+
+.sex {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#dog_check {
+  transform: scale(1.5);
+}
+
+#cat_check {
+  transform: scale(1.5);
+}
+
+button {
+  margin-top: 15px;
+  padding: 10px 20px;
+  background-color: rgb(154, 103, 40);
+  border-radius: 30px;
+  color: rgb(232, 225, 225);
+}
+button:active {
+  opacity: 0.8;
+}/*# sourceMappingURL=style.css.map */

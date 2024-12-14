@@ -1,0 +1,35 @@
+li {
+  list-style: none;
+}
+
+body {
+  text-align: center;
+  background-color: antiquewhite;
+}
+
+.end {
+  margin-top: 100px;
+  padding-top: 5px;
+  padding-bottom: 15px;
+  background-color: rgb(211, 243, 243);
+}
+
+ul {
+  padding-left: 0;
+  width: 70%;
+  height: 150px;
+  background-color: white;
+  margin: auto;
+}
+
+.a {
+  font-size: 20px;
+  font-weight: bold;
+  text-shadow: 5px 5px white;
+}
+
+.content {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-weight: bold;
+}
